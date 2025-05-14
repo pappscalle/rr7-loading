@@ -23,3 +23,5 @@ npm run dev
 ```
 
 The application will be available at `http://localhost:5173`.
+
+![Loading in action](https://github.com/pappscalle/rr7-loading/blob/main/docs/input.gif)
